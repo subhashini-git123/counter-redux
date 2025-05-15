@@ -1,0 +1,14 @@
+.custom-container{
+  background-color: #89cff0 ;
+}
+.first-division ,.second-division{
+  margin: 3rem;
+}
+.first-header ,.second-header{
+  background-color: transparent;
+  border: none;
+}
+.Card-container{
+  margin-top: 2rem;
+
+}
